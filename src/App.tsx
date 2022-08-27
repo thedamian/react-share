@@ -20,6 +20,7 @@ function App() {
           Learn React
         </a>
         <Share description={"this is a basic share page"}/>
+        <a href="https://github.com/bocacode/react-share"  className="App-link" target="_blank">Github Repo</a>
       </header>
     </div>
   );
