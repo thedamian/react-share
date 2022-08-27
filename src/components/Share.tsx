@@ -6,7 +6,7 @@ interface ShareProps {
 }
 
 function Share({description}: ShareProps) {
-  const url = "https://gruups.com"; // window.location.href;
+  const url = window.location.href;
 
   return (
     <>
